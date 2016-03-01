@@ -10,15 +10,14 @@ h1{
 }
 .nav{
 	font-family: 'Raleway';
-	border: none;
-	margin: none;
+	padding: none;
+	@navbar-height: 10px;
 }
 
 .nav .container .navbar-header { 
 	height: 1px; 
 
 }
-
 
 /*ol {
 	width: 200px;
