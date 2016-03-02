@@ -1,22 +1,22 @@
 body{
 	font-family: 'Raleway';
 }
-div{
-	margin: 50px;
-}
+
 
 h1{
 	color: blue;
 }
-.nav{
-	font-family: 'Raleway';
+
+.container .row .col-xs-12 {
+	border: none;
 	padding: none;
-	@navbar-height: 10px;
 }
 
-.nav .container .navbar-header { 
-	height: 1px; 
-
+.about {
+	margin: 50px;
+}
+.resume-body {
+	margin: 50px;
 }
 
 /*ol {
